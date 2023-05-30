@@ -8,6 +8,8 @@ Hi! If you are a member of Entropy SMP, here's how to download these mods:
 4. In the folder that was just created, find the part of the file with all of the mods, you should see a bunch of .jar files.
 5. Pull those files out of the extracted folder and put them in your mods folder.
 
+Make sure you already have Fabric installed, and are using version 0.14.19 of Fabric and version 1.19.2 of Minecraft
+
 Here's how you find your mods folder on Windows:
 1. Open your search bar and type in "run", you should see an app with the same name.
 2. In that app, enter the text "%appdata%", and hit Ok.
