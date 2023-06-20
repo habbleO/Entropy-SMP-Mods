@@ -1,5 +1,6 @@
 # Entropy-SMP-Mods
 The mods for the newest season of  Entropy SMP.
+These mods are made for 1.19.2, and fabric loader version 0.14.19
 
 **DISCLAIMER**
 
